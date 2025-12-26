@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz, http://epg.one/epg.xml.gz"
 # http://iptvx.one/epg/epg.xml.gz
 # http://epg.one/epg.xml.gz
 #EXTINF:-1  tvg-id="fanhd" ,FAN
@@ -241,7 +241,7 @@ http://127.0.0.1:6880/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&
 #EXTINF:-1  tvg-id="khit-hd" ,Хит HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
-#EXTINF:-1 ,Кинеко HD
+#EXTINF:-1  tvg-id="kineko" ,Кинеко
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
 #EXTINF:-1  tvg-id="amedia-hit" ,Amedia Hit HD
@@ -367,13 +367,13 @@ http://127.0.0.1:6880/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89
 #EXTINF:-1  tvg-id="super" ,Суббота HD
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
-#EXTINF:-1 ,Р комедия
+#EXTINF:-1  tvg-id="russkaya-komedia" ,Русская комедия
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
-#EXTINF:-1 ,Р Детектив
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский детектив
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
-#EXTINF:-1 ,Р Бестселлер
+#EXTINF:-1  tvg-id="russky-bestseller" ,Русский бестселлер
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
 #EXTINF:-1  tvg-id="nashe-muzhskoe-hd" ,Наше Мужское HD
@@ -562,7 +562,7 @@ http://127.0.0.1:6880/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&
 #EXTINF:-1  tvg-id="1hd" ,1HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
-#EXTINF:-1 ,MusicBox HD
+#EXTINF:-1  tvg-id="russian-musicbox" ,Russian MusicBox HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&.mp4
 #EXTINF:-1  tvg-id="mtv-rocks" ,MTV 90s
@@ -602,6 +602,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
 
 
 
