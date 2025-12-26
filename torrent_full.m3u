@@ -112,7 +112,7 @@ http://127.0.0.1:6880/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&
 #EXTINF:-1  tvg-id="tv1000-action" ,TV1000 Action HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
-#EXTINF:-1 ,TV1000 Р кино HD
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" ,TV1000 Русское кино HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
 #EXTINF:-1  tvg-id="vip-premiere" ,VIP Premiere HD
@@ -602,3 +602,4 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
