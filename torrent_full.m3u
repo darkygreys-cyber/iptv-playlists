@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 # http://iptvx.one/epg/epg.xml.gz
 # http://epg.one/epg.xml.gz
 #EXTINF:-1  tvg-id="fanhd" ,FAN
@@ -602,4 +602,5 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
 
