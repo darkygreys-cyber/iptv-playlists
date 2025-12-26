@@ -112,12 +112,12 @@ http://127.0.0.1:6880/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&
 #EXTINF:-1  tvg-id="tv1000-action" ,TV1000 Action HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
-#EXTINF:-1  tvg-id="vip-premiere" ,VIP Premiere HD
-#EXTGRP:Кино
-http://127.0.0.1:6880/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
 #EXTINF:-1 ,TV1000 Р кино HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
+#EXTINF:-1  tvg-id="vip-premiere" ,VIP Premiere HD
+#EXTGRP:Кино
+http://127.0.0.1:6880/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
 #EXTINF:-1  tvg-id="vip-megahit" ,VIP Megahit HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
@@ -193,21 +193,18 @@ http://127.0.0.1:6880/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 #EXTINF:-1  tvg-id="nst" ,НСТ
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
+#EXTINF:-1  tvg-id="tv3-ru" ,ТВ3 HD
+#EXTGRP:Кино
+http://127.0.0.1:6880/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
 #EXTINF:-1  tvg-id="shokiruyushchee-hd" ,Шокирующее HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
 #EXTINF:-1  tvg-id="strashnoe-hd" ,Страшное HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
-#EXTINF:-1  tvg-id="khit-hd" ,Хит HD
-#EXTGRP:Кино
-http://127.0.0.1:6880/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
 #EXTINF:-1  tvg-id="tvxxi" ,ТВ XXI
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
-#EXTINF:-1 ,Кинеко HD
-#EXTGRP:Кино
-http://127.0.0.1:6880/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
 #EXTINF:-1  tvg-id="paramount-channel" ,Paramount Channel HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e&.mp4
@@ -241,6 +238,12 @@ http://127.0.0.1:6880/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&
 #EXTINF:-1  tvg-id="vip-serial" ,VIP Serial HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
+#EXTINF:-1  tvg-id="khit-hd" ,Хит HD
+#EXTGRP:Сериалы
+http://127.0.0.1:6880/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
+#EXTINF:-1 ,Кинеко HD
+#EXTGRP:Сериалы
+http://127.0.0.1:6880/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
 #EXTINF:-1  tvg-id="amedia-hit" ,Amedia Hit HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
@@ -349,9 +352,6 @@ http://127.0.0.1:6880/ace/getstream?infohash=8e6f7b1b7506a662b5482dd74ee1db66ff5
 #EXTINF:-1  tvg-id="multimuzyka" ,Мультимузыка
 #EXTGRP:Детские
 http://127.0.0.1:6880/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
-#EXTINF:-1  tvg-id="tv3-ru" ,ТВ3 HD
-#EXTGRP:Эфирные
-http://127.0.0.1:6880/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
 #EXTINF:-1  tvg-id="sts" ,СТС HD
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
@@ -602,5 +602,3 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
-
-
