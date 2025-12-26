@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#
 # Кино
+#
 #EXTINF:-1  tvg-id="fanhd" ,FAN
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
@@ -21,16 +23,6 @@ http://127.0.0.1:6880/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&
 #EXTINF:-1  tvg-id="bcu-media" ,BCU Kinozakaz
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&.mp4
-#
-#EXTINF:-1  tvg-id="_" ,
-#EXTGRP:Кино
-http://127.0.0.1:6880/ace/getstream?id=
-
-
-
-#
-#
-#
 #EXTINF:-1  tvg-id="bcu-filmystic" ,BCU Filmystic HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
@@ -241,6 +233,9 @@ http://127.0.0.1:6880/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&
 #EXTINF:-1  tvg-id="bollywood-hd" ,Bollywood HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+#
+#Сериалы
+#
 #EXTINF:-1  tvg-id="kinoseria" ,КИНОСЕРИЯ HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
@@ -295,6 +290,9 @@ http://127.0.0.1:6880/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&
 #EXTINF:-1  tvg-id="bcu-svaty" ,BCU Сваты HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
+#
+#Детские
+#
 #EXTINF:-1  tvg-id="bcu-multserial" ,BCU Мультсериал
 #EXTGRP:Детские
 http://127.0.0.1:6880/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
@@ -364,6 +362,9 @@ http://127.0.0.1:6880/ace/getstream?infohash=8e6f7b1b7506a662b5482dd74ee1db66ff5
 #EXTINF:-1  tvg-id="multimuzyka" ,Мультимузыка
 #EXTGRP:Детские
 http://127.0.0.1:6880/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#
+#Эфирные
+#
 #EXTINF:-1  tvg-id="sts" ,СТС HD
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
@@ -406,6 +407,9 @@ http://127.0.0.1:6880/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&
 #EXTINF:-1  tvg-id="dozhd" ,Дождь
 #EXTGRP:Эфирные
 http://127.0.0.1:6880/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
+#
+#Познавательные
+#
 #EXTINF:-1  tvg-id="animal-planet-eu" ,Animal Planet HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
@@ -442,6 +446,9 @@ http://127.0.0.1:6880/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339&
 #EXTINF:-1  tvg-id="zhivaya-planeta" ,Живая планета
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
+#EXTINF:-1  tvg-id="nasha-sibir-4k" ,Наша Сибирь 4K
+#EXTGRP:Познавательные
+http://127.0.0.1:6880/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 #EXTINF:-1  tvg-id="v-mire-zhivotnyx-hd" ,В мире животных HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
@@ -472,6 +479,9 @@ http://127.0.0.1:6880/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&
 #EXTINF:-1  tvg-id="nostalgia" ,Ностальгия
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
+#
+#Хобби и увлечения
+#
 #EXTINF:-1  tvg-id="travel-channel" ,Travel Channel HD
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
@@ -535,6 +545,9 @@ http://127.0.0.1:6880/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&
 #EXTINF:-1  tvg-id="fastfunbox-hd" ,Fast&Funbox HD
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#
+#Музыкальные
+#
 #EXTINF:-1  tvg-id="mtv-live-hd" ,MTV Live HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
@@ -589,6 +602,9 @@ http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&
 #EXTINF:-1  tvg-id="zhara" ,Жара
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
+#
+#4К
+#
 #EXTINF:-1  tvg-id="love-nature-4k" ,Love Nature 4K
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
@@ -613,12 +629,5 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTINF:-1 ,UHD1 4K
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
+#
 #EXT-X-ENDLIST
-
-
-
-
-
-
-
-
