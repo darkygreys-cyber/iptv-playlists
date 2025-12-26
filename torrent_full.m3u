@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz, http://epg.one/epg.xml.gz"
 # http://iptvx.one/epg/epg.xml.gz
 # http://epg.one/epg.xml.gz
+#
 #EXTINF:-1  tvg-id="fanhd" ,FAN
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
@@ -19,6 +20,12 @@ http://127.0.0.1:6880/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&
 #EXTINF:-1  tvg-id="bcu-kinozal-prem-3" ,BCU Кинозал Premiere 3 HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
+#
+#EXTINF:-1  tvg-id="bcu-media" ,BCU Kinozakaz
+#EXTGRP:Кино
+http://127.0.0.1:6880/ace/getstream?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&pid=14773.mp4
+#
+#
 #EXTINF:-1  tvg-id="bcu-filmystic" ,BCU Filmystic HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
@@ -602,6 +609,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
 
 
 
