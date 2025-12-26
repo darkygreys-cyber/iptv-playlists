@@ -169,7 +169,7 @@ http://127.0.0.1:6880/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&
 #EXTINF:-1  tvg-id="kinojam1" ,Киноджем 1 HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
-#EXTINF:-1 ,Р иллюзион
+#EXTINF:-1  tvg-id="russky-illuzion" ,Русский иллюзион HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1  tvg-id="illuzion-plus" ,Иллюзион+ HD
@@ -178,7 +178,7 @@ http://127.0.0.1:6880/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&
 #EXTINF:-1  tvg-id="premialnoe-hd" ,Премиальное HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
-#EXTINF:-1 ,Феникс Плюс Кино
+#EXTINF:-1  tvg-id="feniks-plus-kino" ,Феникс+ Кино
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
 #EXTINF:-1  tvg-id="ostrosiuzhetnoe-hd" ,Остросюжетное HD
@@ -187,7 +187,7 @@ http://127.0.0.1:6880/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&
 #EXTINF:-1  tvg-id="blokbaster-hd" ,Блокбастер HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
-#EXTINF:-1  tvg-id="kino-ultra-hd" ,КИНО UHD
+#EXTINF:-1  tvg-id="kino-ultra-hd" ,Кино Ultra HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
 #EXTINF:-1  tvg-id="nst" ,НСТ
@@ -217,7 +217,7 @@ http://127.0.0.1:6880/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&
 #EXTINF:-1  tvg-id="sony-tv" ,.red HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
-#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+#EXTINF:-1  tvg-id="mosfilm" ,Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
 #EXTINF:-1  tvg-id="bcu-sssr" ,BCU СССР HD
@@ -602,4 +602,5 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
 
