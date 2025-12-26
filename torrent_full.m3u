@@ -439,13 +439,13 @@ http://127.0.0.1:6880/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&
 #EXTINF:-1  tvg-id="h2" ,H2 HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
-#EXTINF:-1  tvg-id="hd-life" ,HD Life
+#EXTINF:-1  tvg-id="hd-life" ,Точка РФ
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
-#EXTINF:-1 ,Мир Вокруг HD
+#EXTINF:-1  tvg-id="mir-vokrug" ,Мир вокруг
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
-#EXTINF:-1 ,Нано ТВ
+#EXTINF:-1 tvg-id="nano-tv" ,Нано
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
 #EXTINF:-1  tvg-id="eureka-hd" ,Первый космический HD
@@ -472,10 +472,10 @@ http://127.0.0.1:6880/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&
 #EXTINF:-1  tvg-id="glazami-turista" ,Глазами туриста HD
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
-#EXTINF:-1 ,R Extreme HD
+#EXTINF:-1 tvg-id="russian-extreme-uhd" ,Russian Extreme UHD
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
-#EXTINF:-1 ,Кухня ТВ HD
+#EXTINF:-1 tvg-id="kuxnia-tv" ,Кухня ТВ
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
 #EXTINF:-1  tvg-id="eda-hd" ,Еда Премиум HD
@@ -502,7 +502,7 @@ http://127.0.0.1:6880/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&
 #EXTINF:-1  tvg-id="dikaya-oxota-hd" ,Дикая охота HD
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&.mp4
-#EXTINF:-1 ,Диалоги о рыбалке HD
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" ,Диалоги о рыбалке
 #EXTGRP:Хобби и увлечения
 http://127.0.0.1:6880/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
 #EXTINF:-1  tvg-id="oxotnik-i-rybolov-hd" ,Охотник и Рыболов HD
@@ -526,7 +526,7 @@ http://127.0.0.1:6880/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&
 #EXTINF:-1  tvg-id="mtv-live-hd" ,MTV Live HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
-#EXTINF:-1 ,RTL UHD
+#EXTINF:-1 tvg-id="rtl" ,RTL HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
 #EXTINF:-1 ,VIVA HD
@@ -538,7 +538,7 @@ http://127.0.0.1:6880/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&
 #EXTINF:-1  tvg-id="bridge-tv" ,Bridge TV
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=e4cd583c183e449d129727c969355e7e9b7d3792&.mp4
-#EXTINF:-1 ,Bridge TV Хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" ,Bridge TV Русский хит
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a&.mp4
 #EXTINF:-1  tvg-id="shanson-tv" ,Шансон ТВ
@@ -547,10 +547,10 @@ http://127.0.0.1:6880/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637&
 #EXTINF:-1  tvg-id="tnt-music" ,ТНТ Music
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=347126177d806d4578b249807200e71db6470b63&.mp4
-#EXTINF:-1 ,Музыка 
+#EXTINF:-1 tvg-id="muzyka-pervogo" ,Музыка Первого
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&.mp4
-#EXTINF:-1 ,DELUXE MUSIC HD
+#EXTINF:-1 tvg-id="deluxe-music-de" ,DELUXE MUSIC HD
 #EXTGRP:Музыкальные
 http://127.0.0.1:6880/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&.mp4
 #EXTINF:-1  tvg-id="muztv" ,МузТВ
@@ -602,6 +602,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXT-X-ENDLIST
+
 
 
 
