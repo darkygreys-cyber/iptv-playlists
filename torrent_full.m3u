@@ -446,9 +446,6 @@ http://127.0.0.1:6880/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339&
 #EXTINF:-1  tvg-id="zhivaya-planeta" ,Живая планета
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
-#EXTINF:-1  tvg-id="nasha-sibir-4k" ,Наша Сибирь 4K
-#EXTGRP:Познавательные
-http://127.0.0.1:6880/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 #EXTINF:-1  tvg-id="v-mire-zhivotnyx-hd" ,В мире животных HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6880/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
@@ -605,6 +602,9 @@ http://127.0.0.1:6880/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&
 #
 #4К
 #
+#EXTINF:-1  tvg-id="nasha-sibir-4k" ,Наша Сибирь 4K
+#EXTGRP:4К
+http://127.0.0.1:6880/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 #EXTINF:-1  tvg-id="love-nature-4k" ,Love Nature 4K
 #EXTGRP:4К
 http://127.0.0.1:6880/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
@@ -631,3 +631,4 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #
 #EXT-X-ENDLIST
+
