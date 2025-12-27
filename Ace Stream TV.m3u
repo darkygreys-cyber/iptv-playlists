@@ -142,6 +142,9 @@ http://127.0.0.1:6880/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&
 #EXTINF:-1  tvg-id="cineman-rukino" ,CineMan РуКино
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
+#EXTINF:-1  tvg-id="kinosat" ,Киносат
+#EXTGRP:Кино
+http://127.0.0.1:6880/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6
 #EXTINF:-1  tvg-id="sony-scifi" ,.sci-fi
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
@@ -636,5 +639,6 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #
 #EXT-X-ENDLIST
+
 
 
