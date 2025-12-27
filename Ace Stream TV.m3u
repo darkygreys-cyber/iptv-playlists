@@ -259,6 +259,9 @@ http://127.0.0.1:6880/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&
 #EXTINF:-1  tvg-id="kineko" ,Кинеко
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
+#EXTINF:-1  tvg-id="nash-kinopokaz" ,Наш Кинопоказ
+#EXTGRP:Сериалы
+http://127.0.0.1:6880/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed
 #EXTINF:-1  tvg-id="amedia-hit" ,Amedia Hit HD
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
@@ -639,6 +642,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #
 #EXT-X-ENDLIST
+
 
 
 
