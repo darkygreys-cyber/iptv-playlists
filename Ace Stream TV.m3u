@@ -289,7 +289,7 @@ http://127.0.0.1:6880/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&
 #EXTINF:-1  tvg-id="sony-turbo" ,.black
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
-#EXTINF:-1  tvg-id="paramount-comedy" ,Paramount Comedy
+#EXTINF:-1  tvg-id="paramount-comedy" ,Comedy Central
 #EXTGRP:Сериалы
 http://127.0.0.1:6880/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5&.mp4
 #EXTINF:-1  tvg-id="dorama" ,Дорама HD
@@ -639,6 +639,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #
 #EXT-X-ENDLIST
+
 
 
 
