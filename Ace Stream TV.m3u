@@ -95,11 +95,6 @@ http://127.0.0.1:6880/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&
 #EXTINF:-1  tvg-id="kinosemiya" ,Киносемья HD
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
-#
-#EXTINF:-1  tvg-id="kinosat" ,Киносат
-#EXTGRP:Кино
-http://127.0.0.1:6880/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6
-#
 #EXTINF:-1  tvg-id="rodnoe-kino" ,Родное кино
 #EXTGRP:Кино
 http://127.0.0.1:6880/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
@@ -642,6 +637,7 @@ http://127.0.0.1:6880/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6880/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #
 #EXT-X-ENDLIST
+
 
 
 
